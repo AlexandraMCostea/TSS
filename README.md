@@ -1,2 +1,2 @@
 # TSS
-Proiect Testarea sistemelor Software
+Proiect Testarea Sistemelor Software
